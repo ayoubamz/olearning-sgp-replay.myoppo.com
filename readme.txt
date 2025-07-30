@@ -1,1 +1,1 @@
-olearning-sgp-replay.myoppo.com
+ibis-singlestoredb.labs.singlestore.com
